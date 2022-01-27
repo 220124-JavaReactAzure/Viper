@@ -1,6 +1,6 @@
 
-# Standup 1.27.2022
-
+# Daily Standups
+## Standup 1.27.2022
 ### Robert 
 - Banking Application
 - Become more confident/comfortable in modern technologies
