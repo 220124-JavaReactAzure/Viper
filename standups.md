@@ -34,3 +34,17 @@
 - focusing on pulling and pushing with gitbash, practiced several time to build familiarity
 ### Andy 
 - working on the monster lab folder so he can push his files
+
+## Standup 1.31.2022
+### Robert 
+- Had problems with gettings things onto git and out. Using eclipse was a problem so switched over to spring tools. Going to base the project based on the demo. Hasn't coded it yet but is ready to start working on it. Had peers help him fix his problems.
+### Mike
+- Project0 structure is being setup. The packages have been built up. Lots of what is needed is there. For the week he intends on building out the classes.
+### Joshua 
+- Studied for the QC during the weekend. Took some time to setup the project and is ready to start working on the project.
+### Gurman 
+- Been working on switch statements. Creating the base skeleton for taking response with the scanner in the project. Can now start working on the options with the program.
+### Awaab 
+- Studied for the QC. Today intends on working on the project0.
+### Andy 
+- Went over the material during the weekend for the QC and quiz. Will start working on the project today.
