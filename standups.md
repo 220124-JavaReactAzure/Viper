@@ -50,16 +50,16 @@
 - Went over the material during the weekend for the QC and quiz. Will start working on the project today.
 
 ## Standup 2.1.2022
-## Mike
+### Mike
 - work on implementing p0 classes work.
-## Joshua
+### Joshua
 - Implemented dependency injection
-##Gurman
-- 
-## Robert
+### Gurman
+- started implementing functions to create accounts for faculty members and built constructors
+### Robert
 - looked at the menu and keeps working on the project menu
-## Andy
+### Andy
 - worked on menu and constructing classes
-## Awaab
+### Awaab
 - Following monster demo to reflect in project
 
