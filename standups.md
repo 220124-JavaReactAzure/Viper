@@ -48,3 +48,18 @@
 - Studied for the QC. Today intends on working on the project0.
 ### Andy 
 - Went over the material during the weekend for the QC and quiz. Will start working on the project today.
+
+## Standup 2.1.2022
+## Mike
+- work on implementing p0 classes work.
+## Joshua
+- Implemented dependency injection
+##Gurman
+- 
+## Robert
+- looked at the menu and keeps working on the project menu
+## Andy
+- worked on menu and constructing classes
+## Awaab
+- Following monster demo to reflect in project
+
