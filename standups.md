@@ -63,3 +63,16 @@
 ### Awaab
 - Following monster demo to reflect in project
 
+## Standup 2.2.2022
+### Mike
+- work on implementing p0 classes work.
+### Joshua
+- start working in  the collection and hashmap
+### Gurman
+- start working in the data base
+### Robert
+- working in P0 and start the template
+### Andy
+- worked on menu and constructing classes
+### Awaab
+- Following monster demo to reflect in project
