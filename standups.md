@@ -76,3 +76,18 @@
 - worked on menu and constructing classes
 ### Awaab
 - Following monster demo to reflect in project
+
+## Standup 2.3.2022
+### Mike contiue with prokect 0 and SQL assinment.
+- 
+### Joshua
+- Move to projst0 -- assign project email.
+### Gurman
+- working SQL Collections assinment
+### Robert
+- coddin g monstom so i understant teace layer. will full beging programing project 0 friday night and weekend. also collwction practice
+### Andy
+- finish method foir deposit and withdrawal including SQL 
+### Awaab
+-working on prject 0, will continue working
+
