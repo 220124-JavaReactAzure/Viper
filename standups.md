@@ -91,3 +91,17 @@
 ### Awaab
 -working on prject 0, will continue working
 
+## Standup 2.4.2022
+### Mike 
+- Normalized Users (added permission attribute), working on adding sessions
+### Joshua
+- Set up connection, DAO, can connect to server (tested), working on adding the rest
+### Gurman
+- Building classes, had a little trouble connecting to dbs (password reset), practicing SQL
+### Robert
+- p0: Charles assisted folder organization and fresh clone of monsterLab; windows security update caused issue with STS; will continue troubleshooting with charles.
+### Andy
+- Working on classes, attempting to run monsterLab project for comparison, working on DAO/Services
+### Awaab
+- Worked on collections, hashmap; for p0 connecting to SQL server
+
