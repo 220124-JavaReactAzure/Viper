@@ -107,25 +107,25 @@
 
 ## Standup 2.7.2022
 ### Gurman
--Worked through collections assignment
--Rewatched monster lab recordings
+-Worked through collections assignment \n
+-Rewatched monster lab recordings \n
 
 ### Joshua
--Worked on collections project, hit a roadblock on Deque
--Changed database to make users generic and they assign themselves to a role
+-Worked on collections project, hit a roadblock on Deque \n
+-Changed database to make users generic and they assign themselves to a role \n
 
 ### Mike
--Met with collections team and finished implementation
--Needs to finish up menus and some tests for the project
+-Met with collections team and finished implementation \n
+-Needs to finish up menus and some tests for the project \n
 
 ### Robert
--Looked at project and got the monster project to run with Charles, running database on his own machine and will use the cloud next time
--Didn’t get a chance to work on collections
+-Looked at project and got the monster project to run with Charles, running database on his own machine and will use the cloud next time \n
+-Didn’t get a chance to work on collections \n
 
 ### Andy
--Only worked on the project over the weekend, almost finished it
--Forgot about collections assignment
+-Only worked on the project over the weekend, almost finished it \n
+-Forgot about collections assignment \n
 
 ### Awaab
--Worked on project 0 and added some of the required features
--Trying to make the project capable of making multiple accounts, currently one account per customer
+-Worked on project 0 and added some of the required features \n
+-Trying to make the project capable of making multiple accounts, currently one account per customer \n
