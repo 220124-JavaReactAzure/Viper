@@ -129,3 +129,28 @@
 ### Awaab
 -Worked on project 0 and added some of the required features
 -Trying to make the project capable of making multiple accounts, currently one account per customers
+
+## Standup 2.8.2022
+### Gurman
+-Worked on p0 and made more classes. Trouble shooting sql connection. Currently connected to the database.
+-Wasn't able to use packages properly but found workaround by using imports.
+
+### Joshua
+-Worked on database and continued work on services.
+-Looked up various videos on sql to try make better choices on the database.
+
+### Mike
+-Tried setting up new computer but is currently having issues. 
+-Continued work on p0. Got more menus done.
+
+### Robert
+-Looked at Charle's project to use as a basis for his p0.
+-Able to make a database table and played around with sql commands.
+
+### Andy
+-Almost done with the project. Feels they are 75% done and will finish by today.
+-UserDOA and some unit tests is about all that is needed for p0.
+
+### Awaab
+-Worked on project 0. Able to accept more than one account for a person
+-Started by working on menu and features. Will continue to work on it today.
