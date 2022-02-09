@@ -154,3 +154,28 @@
 ### Awaab
 -Worked on project 0. Able to accept more than one account for a person
 -Started by working on menu and features. Will continue to work on it today.
+
+## Standup 2.9.2022
+
+### Awaab 
+-make it more orgnizing and easy to folow Going forward  what steps are you going to take?
+-I will add testing features to my p0
+### Gurman
+-What went right? Was able to connect to the database and implement a few basic menus, a service, and a model. 
+-What could I improve upon? Not being worried about using the demo code we learn in class as a launching point. Going forward  what steps are you going to take? 
+-Starting earlier and communicating with batch mates more about any hindrances or clarifications needed. 
+### Joshua
+-All the requirements for the MVP were there. 
+-Nothing too harsh occurred with connecting or using the database.
+-What could I improve upon? The data being stored is rather unrealistic and has some faults like a teacher being able to delete any other teacher's data. 
+-The UI is also kind of bad and inconsistent between the student and faculty
+### Mike 
+-I think my demo went smoothly, even though I did have two exceptions handled poorly.
+-I would improve the testing both by completing the implementation and by attempting to start with a TDD approach.
+-I plan to allocate extra time (more than I think I'll need) to work on projects so I have more of a buffer in case things go wrong.
+### Andy
+-My initial loggin and skeleton of the program went right along with understanding how the code works within each other
+-The flow between layers was difficult concept to grasp I had to go back between the demo and my project
+-If given another opportunity I will defenitely create another approach to the next project. I have to input more time when creating my project and also ask my team mates for help. In addition, I will allocate additional time by quitting a weekend job that hinder me in making time to work on the project on the weekends.
+### Robert
+-
