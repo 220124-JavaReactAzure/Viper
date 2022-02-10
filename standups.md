@@ -178,4 +178,16 @@
 -The flow between layers was difficult concept to grasp I had to go back between the demo and my project
 -If given another opportunity I will defenitely create another approach to the next project. I have to input more time when creating my project and also ask my team mates for help. In addition, I will allocate additional time by quitting a weekend job that hinder me in making time to work on the project on the weekends.
 ### Robert
--
+
+## Standup 2.9.2022
+### Robert
+finsh project0 fixing error in the account and see how can access and looking for help for that.
+### Awaab
+I checked out the notes of Java again and download Postman and Appache.Today I will continue reviewing 
+### Jousha
+Setup tomcat and postman. Looked over project p0 to see where I could improve it.
+### Gurman
+update DB of p0 to be matching with classes of facullty member and classes and be ready to present on friday
+### Mike
+setup tomcat and postman, no issues.
+
