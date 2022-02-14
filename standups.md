@@ -191,3 +191,23 @@ update DB of p0 to be matching with classes of facullty member and classes and b
 ### Mike
 setup tomcat and postman, no issues.
 
+#Standup 2.10.2022
+mike- rob we code functioanl chalengesand unit looking what to bra
+jogha and andy. min viablr . web deployment set trello
+Gurman and Awab- minviable product. correct out put testing. invid responced. loging, charlesv to look of 3rd noemtatio
+
+
+## Standup 2.14.2022
+### Robert
+did coing challaenge. ran out for time but finished before final test, presentation for project0 today
+### Awaab
+During the weekend I tried to create data dictionary for our Data Base for P1 Wedding app.
+Today I am going to complete the data dictionary and add some Interfaces for DAO include the business rules
+### Jousha
+Started work on P1 by setting up GitHub and thinking out the details of how the database should be setup.
+### Gurman
+worked on p1 with awaab, collaborated on interface/class design
+### Mike
+Project 1: Set up project packages, stubs, worked on sql script with robert
+### Andy
+worked on catching up with curriculum. Created separate branch for my project.
