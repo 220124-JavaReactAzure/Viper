@@ -191,10 +191,13 @@ update DB of p0 to be matching with classes of facullty member and classes and b
 ### Mike
 setup tomcat and postman, no issues.
 
-#Standup 2.10.2022
-mike- rob we code functioanl chalengesand unit looking what to bra
-jogha and andy. min viablr . web deployment set trello
-Gurman and Awab- minviable product. correct out put testing. invid responced. loging, charlesv to look of 3rd noemtatio
+## Standup 2.10.2022
+### mike-
+rob we code functioanl chalengesand unit looking what to bra
+### jogha and andy.
+min viablr . web deployment set trello
+### Gurman and Awab-
+minviable product. correct out put testing. invid responced. loging, charlesv to look of 3rd noemtatio
 
 
 ## Standup 2.14.2022
@@ -211,3 +214,12 @@ worked on p1 with awaab, collaborated on interface/class design
 Project 1: Set up project packages, stubs, worked on sql script with robert
 ### Andy
 worked on catching up with curriculum. Created separate branch for my project.
+
+
+## Standup 2.15.2022
+### Robert & Mike
+Worked on method of communication and established server for database.
+### Awaab & Gurman
+Yesterday I completed the data dictionary and add some Interfaces for DAO
+### Andy & Joshua
+Looked up more on Hibernate and decided to wait before working more on project to use it. Catch up with current lessons and went over p1 requirements.
