@@ -223,3 +223,14 @@ Worked on method of communication and established server for database.
 Yesterday I completed the data dictionary and add some Interfaces for DAO
 ### Andy & Joshua
 Looked up more on Hibernate and decided to wait before working more on project to use it. Catch up with current lessons and went over p1 requirements.
+
+
+## Standup 2.16.2022
+### Robert & Mike
+Gonna work on getting the project setup in Robert's STS. Then first step is to build out some of the models with Annotations.
+### Awaab & Gurman
+Gurman: 10 Am brunch went pretty well. Worked on getting Hibernate working. It went alright not fully running. Today gonna get Spring stuff working. Create project with all dependencies and skeleton. Start implementing based on demo code.
+Awaab: watched the record to know how to add hibernate yesterday. Today will setup hibernate to p1.
+### Andy & Joshua
+Andy: Caught up with some reading in RevPro before talking to Joshua about the project. Worked on running Tomcat and started working on hibernate.
+Joshua: Looked more into Hibernate and learning about the annotations. Looked at demo projects to help understanding.
