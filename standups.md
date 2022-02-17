@@ -234,3 +234,13 @@ Awaab: watched the record to know how to add hibernate yesterday. Today will set
 ### Andy & Joshua
 Andy: Caught up with some reading in RevPro before talking to Joshua about the project. Worked on running Tomcat and started working on hibernate.
 Joshua: Looked more into Hibernate and learning about the annotations. Looked at demo projects to help understanding.
+
+## Standup 2.17.2022
+### Robert & Mike
+Build user service DAO, Service STS Suite, Persist User
+### Awaab & Gurman
+Gurman: Build models and DAO 
+Awaab: yesterday adding hibernate to p1 platform.Today:create objects(table) using hibernate
+### Andy & Joshua
+Joshua: Setting up hibernate in project and designing Database Structures
+Andy: Worked on Setting Servlets 
