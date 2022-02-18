@@ -244,3 +244,12 @@ Awaab: yesterday adding hibernate to p1 platform.Today:create objects(table) usi
 ### Andy & Joshua
 Joshua: Setting up hibernate in project and designing Database Structures
 Andy: Worked on Setting Servlets 
+
+## Standup 2.18.2022
+### Robert & Mike
+connect postman by p1 and create p1 tables using hinernat
+### Awaab & Gurman
+Implement some classes to p1 plate form and inject hibernate to p1 platfor and create objects(table) using hibernate
+### Andy & Joshua
+Joshua: Setup Hibernate and used a test to check that the connection was actually happening. Everything seems good
+Andy: setuping servlet and doing hibernet 
