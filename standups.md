@@ -253,3 +253,11 @@ Implement some classes to p1 plate form and inject hibernate to p1 platfor and c
 ### Andy & Joshua
 Joshua: Setup Hibernate and used a test to check that the connection was actually happening. Everything seems good
 Andy: setuping servlet and doing hibernet 
+
+## Standup 2.21.2022
+### Robert & Mike
+Attempting to implement mapping on objects User and MealTypes, need to add \*Types services,daos, servlets 
+### Awaab & Gurman
+Worked on user class, service, and Dao; working on mealTypes, testing connection to dbs with hibernate. Got tables, services set up, working on wedding objects and mapping
+### Andy & Joshua
+Trying to get foreign key/relational mapping working; got services and daos set up.
