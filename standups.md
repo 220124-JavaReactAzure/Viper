@@ -261,3 +261,15 @@ Attempting to implement mapping on objects User and MealTypes, need to add \*Typ
 Worked on user class, service, and Dao; working on mealTypes, testing connection to dbs with hibernate. Got tables, services set up, working on wedding objects and mapping
 ### Andy & Joshua
 Trying to get foreign key/relational mapping working; got services and daos set up.
+
+## Standup 2.21.2022
+### Robert & Mike
+Got Robert setup and pulled, had a breakthrough with getting hibernate to populate. Fixed issue with setting the mapping in the context loader listener.
+Robert is working on the vendor. Created the model and will work on the DAO.
+### Awaab & Gurman
+Awaab was trying to add Wedding table tp p1 but got some issues by the relations. Today he is going to try it a gain and read more about Hibernate Relations
+Gurman worked on servlet for users and troubleshooting hibernate connection
+### Andy & Joshua
+Joshua ran into a roadblock implementing the RentedResource table with having a NullPointerException but Joshua can't find any information to help me out.
+Andy worked on fixing my Tomcat server. Working on Exceptions package and worked on trying to implement authentication.
+
