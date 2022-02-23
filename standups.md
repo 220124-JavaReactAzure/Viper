@@ -273,3 +273,10 @@ Gurman worked on servlet for users and troubleshooting hibernate connection
 Joshua ran into a roadblock implementing the RentedResource table with having a NullPointerException but Joshua can't find any information to help me out.
 Andy worked on fixing my Tomcat server. Working on Exceptions package and worked on trying to implement authentication.
 
+## Standup 2.21.2022
+### Robert & Mike
+Robert got vendor model made. Service and DAO setup. The team is working on getting the data types sorted out. Mike made stubs for the tests.
+### Awaab & Gurman
+Basically have all the tables built in code. Once they connect their tables they hit a roadblock of tomcat not wanting to create the table.
+### Andy & Joshua
+Joshua setup the all tables and will start working on the tests. Andy was working on auth servlet and putting logging throughout the servlets and Services.
