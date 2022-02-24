@@ -262,7 +262,7 @@ Worked on user class, service, and Dao; working on mealTypes, testing connection
 ### Andy & Joshua
 Trying to get foreign key/relational mapping working; got services and daos set up.
 
-## Standup 2.21.2022
+## Standup 2.22.2022
 ### Robert & Mike
 Got Robert setup and pulled, had a breakthrough with getting hibernate to populate. Fixed issue with setting the mapping in the context loader listener.
 Robert is working on the vendor. Created the model and will work on the DAO.
@@ -273,10 +273,28 @@ Gurman worked on servlet for users and troubleshooting hibernate connection
 Joshua ran into a roadblock implementing the RentedResource table with having a NullPointerException but Joshua can't find any information to help me out.
 Andy worked on fixing my Tomcat server. Working on Exceptions package and worked on trying to implement authentication.
 
-## Standup 2.21.2022
+## Standup 2.23.2022
 ### Robert & Mike
 Robert got vendor model made. Service and DAO setup. The team is working on getting the data types sorted out. Mike made stubs for the tests.
 ### Awaab & Gurman
 Basically have all the tables built in code. Once they connect their tables they hit a roadblock of tomcat not wanting to create the table.
 ### Andy & Joshua
 Joshua setup the all tables and will start working on the tests. Andy was working on auth servlet and putting logging throughout the servlets and Services.
+
+## Standup 2.24.2022
+### Andy & Joshua
+  ### Joshua 
+       Finished ServiceTesting for the p1. Going to try to get some front end in before presentation
+  ### Andy
+       Finished authentication and is working on logging. Will rework logging in because not happy with it.
+### Robert & Mike
+  ### Mike
+        Got tests working for implemented service layer, adding/testing specific endpoints, next step: adding logging.
+  ### Robert
+        Couldn't get tomcat to work. Going to work with Mike to try and get it working. Worked on CrudDAO interface but realized it was unnecessary
+
+### Awaab & Gurman
+        - mereg all project together in one plateform and fix all merging issues (implentaions, dependces, ...etc).
+        - start adding delete feature in all layers.
+        - satrt add Mock for Testing environment.
+        - today: finish all steps and make p1 ready to presenting.
