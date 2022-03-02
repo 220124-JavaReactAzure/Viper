@@ -298,3 +298,16 @@ Joshua setup the all tables and will start working on the tests. Andy was workin
         - start adding delete feature in all layers.
         - satrt add Mock for Testing environment.
         - today: finish all steps and make p1 ready to presenting.
+
+
+## Standup 3.2.2022
+### Joshua 
+      Setup pipeline and currently working on some docker issues including pipeline. Got everyone connected to DB and obfuscate username and password. Will work on Grocery List model/Service/DAO testSuite.
+### Andy
+      Will work on creating UserList Model and Services and work on DAO. Along with making Test Package for UserList Service
+### Mike
+      Worked on setting up trello with team, created UI repo, discussed UI design/outline with team. Started working on User Model/Service/DAO testSuite.
+### Scott
+      Fixed an issue connecting to the pipeline. Working on the items model and has got it done. Will merge it soon enough. Going to create a skeleton for the item service/dao.
+### Awaab
+      Will start doing the model of role and it service
