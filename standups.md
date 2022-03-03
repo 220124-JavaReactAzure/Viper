@@ -311,3 +311,17 @@ Joshua setup the all tables and will start working on the tests. Andy was workin
       Fixed an issue connecting to the pipeline. Working on the items model and has got it done. Will merge it soon enough. Going to create a skeleton for the item service/dao.
 ### Awaab
       Will start doing the model of role and it service
+
+## Standup 3.3.2022
+### Joshua 
+      Added model/dao/service for groceryList. Setup some testing for the service. Learning ide to try make things faster to develop. Merged all branches together and tested and fixed some things so application runs.
+### Andy
+      Worked and pushed UserList Models Services,  and went over setting up Spring project.
+### Mike
+      Added stub service methods, implemented first two tests on addUser. Needed to partially implement method with exception throw for proper failure test. Also partially implemented isValidUser method.
+
+### Scott
+      Added itemName to GroceryItem for user searches. Testing for newItem is passing. Need to finish implementing testing for the other GroceryItemService.
+
+### Awaab
+      I add role (Model,DAO,Service and servlet) to my branch
