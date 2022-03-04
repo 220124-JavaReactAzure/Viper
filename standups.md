@@ -325,3 +325,19 @@ Joshua setup the all tables and will start working on the tests. Andy was workin
 
 ### Awaab
       I add role (Model,DAO,Service and servlet) to my branch
+
+## Standup 3.4.2022
+### Joshua 
+      Added all the service calls needed to the grocey list. Currently has to modify the DAO to add an extra query. Tried merging but had a significant amount of merge conflicts so will get that cleared up today.
+### Andy
+      Finalizing tests and will start working in making servlets.
+### Mike
+      Had issues with testing due to option type. Needs to learn it better but is currently handling it and the test seems to be working. Continuing on with the rest of the tests then implement the methods themselves based on the tests.
+
+### Scott
+      Fixed tests for findItemByName locally. It is having issues on Spring boot up. Looking into Spring Query. Finishing up Unit testing and moving forward to GroceryItemServlet today.
+
+
+### Awaab
+      Yesterday tried to create HTML page present the Role data tables. and adding some testing
+
