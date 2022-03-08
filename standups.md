@@ -341,3 +341,18 @@ Joshua setup the all tables and will start working on the tests. Andy was workin
 ### Awaab
       Yesterday tried to create HTML page present the Role data tables. and adding some testing
 
+## Standup 3.4.2022
+### Joshua 
+      Will focus on getting the API working. Made a navbar for react and setup a skeleton for the website.
+      
+### Andy
+      Finished Servlets for UserList and will start working on react. Going to make a register component.
+
+### Mike
+      Mike is having technical issues but will start working on react content as soon as possible. Will make a display box component.
+
+### Scott
+      Will work on react content. Going to work on footer component.
+
+### Awaab
+      Will work on react content. Going to work on a login component.
