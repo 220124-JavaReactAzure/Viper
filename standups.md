@@ -356,3 +356,20 @@ Joshua setup the all tables and will start working on the tests. Andy was workin
 
 ### Awaab
       Will work on react content. Going to work on a login component.
+
+
+## Standup 3.9.2022
+### Joshua 
+      Able to get the models connected but needs to work on testing and finishinig up any end points needed in API. Gonna get CI/CD working as soon as possible so others can work on it with React. Will work on UI when finished with that.
+      
+### Andy
+      Started working on Registration in react. Will go over some failing tests on API.
+
+### Mike
+      used material ui example table with checkboxes and sort options. removed padding slider. created variable to dynamically update heading. need to pass in JSON objects to parse/destructure into display (may need cutomized table per display type--this component is currently specific to item display)
+
+### Scott
+      Issues getting off the ground with React. Will finish up implementation of groceryItem service and servlet.
+
+### Awaab
+      Added login feature to react. and start adding CRUD of Role. today I am going to continue with Role features
