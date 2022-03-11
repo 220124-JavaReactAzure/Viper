@@ -373,3 +373,20 @@ Joshua setup the all tables and will start working on the tests. Andy was workin
 
 ### Awaab
       Added login feature to react. and start adding CRUD of Role. today I am going to continue with Role features
+
+## Standup 3.11.2022
+### Joshua 
+      Over ambitious with wanting to use React with a day and a half of time. Planning could have gone better and should have setup a lot of guidelines for how to avoid issues with the code repos. Had to drop features because of rushed time. Some features implemented but didn't have time to test or create any UI for it.
+      
+### Andy
+      Tried Working on Finalizing Project Registration. Learn before trying to work on a new technology. Ex. React.
+
+### Mike
+      Worked out deleting row from rows array, but didn't attach delete or add buttons to API.
+
+### Scott
+      Wants to work on the front end but felt stuck working on the back end. It seemed like most of the time he pulled from main he needed to update groceryItemModel and gorceryItemService.
+
+
+### Awaab
+      Wants to develop self on refersh pages and using did mount methods in react. and read more about testing environment in STS
