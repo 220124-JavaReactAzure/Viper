@@ -390,3 +390,21 @@ Joshua setup the all tables and will start working on the tests. Andy was workin
 
 ### Awaab
       Wants to develop self on refersh pages and using did mount methods in react. and read more about testing environment in STS
+
+
+## Standup 3.14.2022
+### Joshua 
+      Failed to ask for more clear communication on where certain deliverables are. Could have been more hands on to get others up to speed on the project. Also better git guidelines to avoid various issues with the repo.
+      
+### Andy
+      Feels more confident with the API side but also would like to do React just to learn it better.
+
+### Mike
+      Really enjoyed Test Driven Development during the P2. Felt confident his implementations in the api would work. Felt like Trello could have been used more for communication. Not enough status updates on what was actually going on. Would like to avoid the issue with using code that isn't particularly well understood.
+
+### Scott
+      More confident with API but thinks that's more of a reason to work on React to get a better handle on that. Commit more consistently so if need be is able to push a commit that is working instead of something broken.
+
+
+### Awaab
+      Would like to do react.
